@@ -9,8 +9,8 @@ $contain: #fafafa;
   // background: #fafafa;
 }
 .top {
-  width: 98%;
   // background: $primary;
+  background: $primary;
   background-image: url(../src/assets/group2.svg);
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -95,7 +95,7 @@ header a {
   width: 84%;
   height: 6.25rem;
   opacity: 0.9;
-  margin: -9.25rem 6.25rem 0 7.4rem;
+  margin: -9rem 6.25rem 0 7.4rem;
   justify-content: space-around;
   box-shadow: 0px 10px 20px rgba(34, 35, 49, 0.15);
   backdrop-filter: blur(14px);
